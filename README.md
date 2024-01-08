@@ -18,9 +18,6 @@ Please note that the script should only be used on systems where you have the le
 ### Contribution
 Contributions and improvements are welcome! Feel free to fork the repository, make changes, and submit a pull request.
 
-### License
-This project is licensed under the [MIT License](LICENSE), which means you are free to use, modify, and distribute the code as long as you include the original copyright and license notice in any copy of the code or substantial portion of the software.
-
 ### Author
 - **Emmanuel Haggai**
   - GitHub: [emmanuelhaggai](https://github.com/emmanuelhaggai)
