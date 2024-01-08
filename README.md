@@ -10,7 +10,7 @@ This GitHub repository contains a simple batch script developed by Emmanuel Hagg
 
 ### Usage
 1. Clone or download the repository to your local machine.
-2. Run the batch script (`wifi_names_and_passwords.bat`) by double-clicking it or executing it through the command line.
+2. Run the batch script (`wifi_names_passwords.bat`) by double-clicking it or executing it through the command line.
 
 ### Disclaimer
 Please note that the script should only be used on systems where you have the legal right to access and view Wi-Fi information. Respect privacy and comply with all applicable laws and regulations.
